@@ -1,4 +1,4 @@
-# Laravel Breeze - Next.js Edition with TypeScript 🏝️
+# Laravel Auth - Next.js with TypeScript 🏝️
 ## Introduction
 
 ---
@@ -7,9 +7,6 @@
 ### Little extras
 * Dark mode support
 * Profile modificatin support - [Laravel Breeze modifications for profile editing](BREEZE_MODIFICATIONS.md)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/kullarkert)
-
 ---
 
 This repository is an implementation of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [Next.js](https://nextjs.org). All of the authentication boilerplate is already written for you - powered by [Laravel Sanctum](https://laravel.com/docs/sanctum), allowing you to quickly begin pairing your beautiful Next.js frontend with a powerful Laravel backend.
