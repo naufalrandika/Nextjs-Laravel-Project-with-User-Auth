@@ -1,6 +1,8 @@
 # Laravel Auth - Next.js with TypeScript 🏝️
 ## Introduction
 
+If you want to find my backend repo with Laravel here: https://github.com/naufalrandika/Nextjs-Laravel-Project-with-User-Auth-Backend.git
+
 ---
 **This repository is a refactor of [breeze-next](https://github.com/laravel/breeze-next) by changing programing language from [JavaScript](https://www.javascript.com/) to [TypeScript](https://www.typescriptlang.org/)**
 
